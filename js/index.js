@@ -297,7 +297,7 @@ function reveal() {
   }
   // https://www.youtube.com/embed/gbICivOO26U?controls=0&loop=1&autoplay=1
   var ifrm = document.createElement("iframe");
-  ifrm.setAttribute("src", "js/bdyvideo.mp4");
+  ifrm.setAttribute("src", "js/b1.png");
   //ifrm.style.width = `${w}px`;
   //ifrm.style.height = `${h}px`;
   ifrm.style.border = 'none';
